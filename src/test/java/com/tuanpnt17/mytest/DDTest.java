@@ -17,7 +17,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 public class DDTest {
   
   public static Object[][] initData() {
-    return new Integer[][]{{1, 1}, {2, 2}, {5, 120}, {6, 720}};
+    return new Integer[][]{{1, 1}, {2, 2}, {5, 120}, {6, 72000}};
   }
 
   //Data Driven Test
