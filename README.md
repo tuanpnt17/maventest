@@ -1,1 +1,1 @@
-[![CI with GitHub Actions using Maven and JUnit | © 2022 by giao.lang](https://github.com/tuanpnt17/maventest/actions/workflows/maven.yml/badge.svg)](https://github.com/tuanpnt17/maventest/actions/workflows/maven.yml)
+[![CI Cat](https://github.com/tuanpnt17/maventest/actions/workflows/maven.yml/badge.svg)](https://github.com/tuanpnt17/maventest/actions/workflows/maven.yml)
